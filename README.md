@@ -10,6 +10,17 @@ Investigate a Relational Database
 
 This project will query the Sakila DVD Rental database. SQL code is written to run SQL queries and answer interesting questions about the database. As part of the submission, SQL queries will be used to build visualizations to showcase the output of the queries.
 
+# Files
+
+The files in this repository are:
+
+SQL Project Submission -- This shows the presentation of slides presenting the SQL queried data
+
+SQLproject.sql -- This is the SQL queries for the project
+
+dvd-rental-erd -- This is the entity relationship diagram that shows the DVD rental database
+
+
 # Directions
 
 In this project, you will query the Sakila DVD Rental database. The Sakila Database holds information about a company that rents movie DVDs. For this project, you will be querying the database to gain an understanding of the customer base, such as what the patterns in movie watching are across different customer groups, how they compare on payment earnings, and how the stores compare in their performance. To assist you in the queries ahead, the schema for the DVD Rental database is provided below.
